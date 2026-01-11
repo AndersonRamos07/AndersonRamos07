@@ -1,4 +1,3 @@
-# anderson ramos
 ```
 class Profile{
   constructor()
