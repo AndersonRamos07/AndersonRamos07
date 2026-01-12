@@ -9,7 +9,7 @@ const in_github = new Profile();
   in_github.networking = 'in/anderson-ramos07';
 /* ----- ----- ----- ----- */
   in_github.repositories = 28;
-  in_github.tecnlogies = [
+  in_github.technologies= [
     api-tools: [ 'browser-devtools', 'insomnia', 'postman' ],
     container-platforms: [ 'docker', 'kubernetes_k8s' ],
     cloud: 'oracle-cloud-instrastructure_oci',
