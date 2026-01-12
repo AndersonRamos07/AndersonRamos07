@@ -3,11 +3,11 @@ class Profile{
   constructor()
 };
 const in_github = new Profile();
-// Contact info
+/* ----- Contact info ----- */
   in_github.author-name = 'Anderson Ramos',
   in_github.email = 'andersonramos07@live.com';
   in_github.networking = 'in/anderson-ramos07';
-//
+/* ----- ----- ----- ----- */
   in_github.repositories = 28;
   in_github.tecnlogies = [
     api-tools: [ 'browser-devtools', 'insomnia', 'postman' ],
