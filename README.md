@@ -16,5 +16,3 @@ const in_github = new Profile();
     shell: [ 'bash', 'cmd', 'powershell' ],
     version-control-system: 'git';
   ]
-}
-```
