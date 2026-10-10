@@ -11,8 +11,8 @@ const in_github = new Profile();
   in_github.repositories = 28;
   in_github.technologies= [
     api-tools: [ 'browser-devtools', 'insomnia', 'postman' ],
-    container-platforms: [ 'docker', 'kubernetes_k8s' ],
     cloud: 'oracle-cloud-instrastructure_oci',
+    container-platforms: [ 'docker', 'kubernetes_k8s' ],
     ides: [ 'intellij', 'vs-code', 'eclipse' , 'android-studio' ],
     languages: [ 'clang', 'csharp', 'java', 'javascript', 'pynthon' ],
     shell: [ 'bash', 'cmd', 'powershell' ],
