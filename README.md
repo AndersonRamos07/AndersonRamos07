@@ -19,34 +19,3 @@ const in_github = new Profile();
     version-control-system: 'git';
   ]
 ```
-/**
- * @file README.md
- * @description Perfil de Desenvolvedor(a)
- * @author Seu Nome <seu.email@exemplo.com>
- */
-
-class Developer {
-  constructor() {
-    this.name = 'Seu Nome';
-    this.role = 'Full Stack Developer';
-    this.location = 'São Paulo, BR';
-    this.code = ['JavaScript', 'TypeScript', 'Node.js', 'React'];
-    this.status = 'Pronto para novos desafios 🚀';
-  }
-
-  sayHello() {
-    return 'Olá, mundo! Obrigado por visitar meu perfil.';
-  }
-
-  getContact() {
-    return {
-      github: 'https://github.com',
-      linkedin: 'https://linkedin.com',
-      email: 'seu.email@exemplo.com'
-    };
-  }
-}
-
-// Executando a instância
-const dev = new Developer();
-console.log(dev.sayHello());
